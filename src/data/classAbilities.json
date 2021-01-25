@@ -1,0 +1,12 @@
+{
+    "paladin": [
+        {
+            "ability": "attack",
+            "minLevel": 1
+        },
+        {
+            "ability": "heal",
+            "minLevel": 4
+        }
+    ]
+}

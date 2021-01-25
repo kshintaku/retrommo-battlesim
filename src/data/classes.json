@@ -1,0 +1,21 @@
+{
+    "paladin": {
+        "abbreviation": "PL",
+        "agility": 41,
+        "defaultClothesDye": "defaultClothesDye5",
+        "defaultHairDye": "defaultHairDye1",
+        "defaultMask": "defaultMask1",
+        "defaultOutfit": "defaultOutfit1",
+        "defaultSkinColor": "oatmeal",
+        "defaultStyle": "masculine",
+        "defense": 82,
+        "description": "Heavily armored tank who wields the power of light",
+        "intelligence": 54,
+        "luck": 27,
+        "maxHP": 85,
+        "maxMP": 36,
+        "name": "Paladin",
+        "strength": 80,
+        "wisdom": 67
+    }
+}

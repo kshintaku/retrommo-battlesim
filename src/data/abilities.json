@@ -1,0 +1,20 @@
+{
+    "attack": {
+        "chargeSFX": null,
+        "cost": 0,
+        "healPower": null,
+        "impactSFX": "slash",
+        "name": "Attack",
+        "physicalPower": 100,
+        "targetType": "singleEnemy"
+    },
+    "heal": {
+        "chargeSFX": "heal",
+        "cost": 5,
+        "healPower": 70,
+        "impactSFX": "heal",
+        "name": "Heal",
+        "physicalPower": null,
+        "targetType": "singleAlly"
+    }
+}
